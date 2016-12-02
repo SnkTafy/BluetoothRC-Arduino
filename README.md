@@ -1,0 +1,2 @@
+# BluetoothRC-Arduino
+Arduino code to receive the data from BluetoothRC application
