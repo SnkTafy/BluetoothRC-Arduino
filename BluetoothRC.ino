@@ -11,7 +11,7 @@
  * 7) Old broken toy car (If you do not have buy new one :) )
  * 8) Old phone batteries for power supply (Of course new batteries is better but no money no honey!!! )
  * PCB file is also attached at the same folder(BluetoothRC_PCB.pdf)
- * If you have not make befor PCB just ask the uncle Google ;)
+ * If you have not made PCB just ask the uncle Google ;)
  * 
  * Servo.h IS NOT USED IN THIS PROJECT. Because if you try to use
  * both SoftwareSerial.h and Servo.h servo acts like crazy.
